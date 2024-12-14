@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:          CANADIAN PLATEAU WOMEN AND BIRCHBACK BASKET.
+title:          Echoes of Faith: Women’s Voices in Religious Texts
 tagline:          ''
 description:      ''
-url:              https://DeborahKupoluyi.github.io/Blog-Assignment/
+url:              https://Fareedah2004.github.io/Blog-Assignment/
 baseurl:          '/Blog-Assignment/'
-author: DEBORAH KUPOLUYI
-email: kupoluyd@myumanitoba.ca
+author: Fareedah Ganiyu
+email: ganiyuf@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
